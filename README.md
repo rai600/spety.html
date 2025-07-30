@@ -1,2 +1,0 @@
-# spety.html
-web
